@@ -10,7 +10,7 @@ local function setup(args)
   end
 
   if args.bin == nil then
-    args.bin = "dragon"
+    args.bin = "dragon-drop"
   end
 
   if args.mode == nil then
