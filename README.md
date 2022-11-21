@@ -27,7 +27,7 @@ Drag and drop files using [dragon](https://github.com/mwh/dragon).
   ```bash
   mkdir -p ~/.config/xplr/plugins
 
-  git clone https://github.com/sayanarijit/dragon.xplr ~/.config/xplr/plugins/dragon
+  git clone https://github.com/SaphiraKai/dragon-drop.xplr ~/.config/xplr/plugins/dragon
   ```
 
 - Require the module in `~/.config/xplr/init.lua`
